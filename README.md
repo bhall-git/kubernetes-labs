@@ -1,16 +1,31 @@
- Kubernetes Labs
+# Kubernetes Labs
 
-This repository contains the hands-on Kubernetes labs I completed while studying Kubernetes administration and cloud-native application deployment.
+Hands-on Kubernetes labs completed while learning Kubernetes fundamentals.
 
-## Topics Covered
+## Environment
 
-- Pods
-- Deployments
+- Arch Linux
+- Rancher Desktop Kubernetes
+- kubectl
+- Docker
+
+## Completed Labs
+
+- ✅ Pods
+- ✅ Labels
+- ✅ YAML Manifests
+- ✅ Deployments
+- ✅ ReplicaSets
+- ✅ Namespaces
+
+## In Progress
+
+- 🔄 Mealie Application
+
+## Upcoming
+
 - Services
+- Ingress
 - ConfigMaps
 - Secrets
-- Volumes
-- Ingress
-- Troubleshooting
-
-Each lab contains the Kubernetes manifests used to deploy and test the resources along with notes from the exercises.
+- Persistent Storage
